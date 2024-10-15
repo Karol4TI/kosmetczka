@@ -38,3 +38,29 @@ main {
     color: indigo;
     height: 580px;
 }
+footer {
+    background-color: #9C64A6;
+    color: white;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    list-style-type: circle;
+}
+img {
+    padding: 4px;
+    margin: 15px;
+}
+img:hover {
+    padding: 3px;
+    border: 1px dashed indigo;
+}
+.klasa-index {
+    padding: 25px;
+}
+
+h1 {
+    margin: 0;
+}
