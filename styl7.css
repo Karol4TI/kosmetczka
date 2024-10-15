@@ -15,3 +15,26 @@
 .left nav, .left section {
     background-color: #E1BEE7;
 }
+.left nav {
+    height: 400px;
+}
+.left section {
+    height: 330px;
+}
+.right {
+    width: 75%;
+}
+header, main {
+    font-size: 170%;
+    text-align: center;
+}
+header {
+    background-color: #9C64A6;
+    color: white;
+    height: 150px;
+    letter-spacing: 5px;
+}
+main {
+    color: indigo;
+    height: 580px;
+}
